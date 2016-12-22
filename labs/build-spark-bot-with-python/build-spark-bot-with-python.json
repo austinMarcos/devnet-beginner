@@ -1,0 +1,26 @@
+{
+  "labId": "build-spark-bot-with-python",
+  "title": "Build a Spark Bot with Python",
+  "slug": "Learn how to create a Spark Bot with Python. ",
+  "time": 15,
+  "byod": true,
+  "files": [
+    {"title": "1.md"},
+    {"title": "2.md"},
+    {"title": "3.md"},
+    {"title": "4.md"}
+  ],
+  "tags": [
+	{"title": "Python"}
+  ],
+  "related": [
+    {
+      "labId": "01-intro-02-overview-of-modules",
+	  "title": "Overview of Modules in This Track"
+    }
+  ],
+  "authors": [
+  	{"name": ""}
+  ],
+  "active": true
+}

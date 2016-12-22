@@ -1,0 +1,26 @@
+{
+  "labId": "introductory-devnet",
+  "title": "Introductory - Prepare for DevNet",
+  "slug": "Get started with DevNet and learn all the great technologies to help you as a student or a new DevNet member.",
+  "time": 15,
+  "byod": true,
+  "files": [
+    {"title": "1.md"},
+    {"title": "2.md"},
+    {"title": "3.md"},
+    {"title": "4.md"}
+  ],
+  "tags": [
+	{"title": "DevNet"}
+  ],
+  "related": [
+    {
+      "labId": "overview-of-modules",
+	  "title": "Overview of Modules in This Learning Track"
+    }
+  ],
+  "authors": [
+  	{"name": ""}
+  ],
+  "active": true
+}
