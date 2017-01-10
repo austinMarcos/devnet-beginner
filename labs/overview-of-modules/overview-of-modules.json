@@ -1,0 +1,23 @@
+{
+  "labId": "overview-of-modules",
+  "title": "Overview of Modules In This Track",
+  "slug": "Learn about the technologies covered in this Learning Track.",
+  "time": 5,
+  "byod": true,
+  "files": [
+    {"title": "1.md"}
+  ],
+  "tags": [
+    {"title": "DevNet Beginner"}
+  ],
+  "related": [
+    {
+      "labId": "introductory-devnet",
+	  "title": "Introductory to DevNet"
+    }
+  ],
+  "authors": [
+  	{"name": "", "email": ""}
+  ],
+  "active": true
+}
