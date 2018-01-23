@@ -1,7 +1,7 @@
 {
   "labId": "devnet-beginner-overview-of-track",
   "title": "Overview of Modules In This Track",
-  "slug": "Learn about the technologies covered in the DevNet Beginner Learning Track.",
+  "slug": "Learn about the topics covered in the Intro to DevNet learning track.",
   "time": 5,
   "byod": true,
   "files": [
@@ -13,11 +13,11 @@
   "related": [
     {
       "labId": "introductory-devnet",
-	  "title": "Introductory to DevNet"
+	  "title": "Overview of DevNet"
     }
   ],
   "authors": [
-  	{"name": "Tessa Mero", "email": "tmero@cisco.com"}
+  	{"name": "Marcos Campos", "email": "marcocam@cisco.com"}
   ],
   "active": true
 }
